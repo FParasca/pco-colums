@@ -1,10 +1,25 @@
 
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
+import components.Balls;
+import components.Hearts;
+import components.Signs;
+import components.Symbol;
+import components.Piece;
+import elimination.Eliminator;
+import elimination.SimpleEliminator;
+import elimination.PatternEliminator;
+import acomodator.Accomodator;
+import acomodator.SimpleAccomodator;
+import acomodator.FatalFallAccomodator;
+import gamemode.Game;
+import gamemode.AbstractGame;
+import gamemode.SingleScoreGame;
+import gamemode.MultipleRewardGame;
+
 /**
  * To test the classes in the PCO 2025/26 project
  */

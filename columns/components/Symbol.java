@@ -1,4 +1,4 @@
-
+package components;
 
 /**
  * Interface that represents symbols to be used in games

@@ -1,8 +1,14 @@
 
+package gamemecanichs;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
+import elimination.Eliminator;
+import acomodator.Accomodator;
+import components.Symbol;
+import components.Piece;
+
 /**
  * The instances of this class represent areas where games can be
  * played. They perform necessary placements of pieces, with 

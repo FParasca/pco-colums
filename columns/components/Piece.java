@@ -1,6 +1,7 @@
-
+package components;
 
 import java.util.Random;
+
 /**
  * The instances of this class represent pieces that can be used 
  * in Column games.

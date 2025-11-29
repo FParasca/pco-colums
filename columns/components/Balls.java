@@ -1,4 +1,4 @@
-
+package components;
 
 /**
  * An implementation of the Symbol interface

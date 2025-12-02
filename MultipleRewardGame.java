@@ -1,6 +1,6 @@
 import java.util.List;
 import java.util.Random;
-
+//
 
 public class MultipleRewardGame extends AbstractGame {
 	private static final int BASE_SEQUENCE_POINTS = 200;

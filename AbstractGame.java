@@ -1,6 +1,6 @@
 import java.util.Random;
 
-
+//
 public abstract class AbstractGame implements Game {
 	protected PlayArea area;
 	protected Piece currentPiece;

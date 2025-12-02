@@ -1,7 +1,7 @@
 import java.util.List;
 import java.util.Random;
 
-
+//
 public class SingleScoreGame extends AbstractGame {
 	private int score;
 	
